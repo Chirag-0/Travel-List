@@ -1,8 +1,9 @@
-# React + Vite
+Travel List is a React-based application that helps users manage and organize their travel items. Users can add items to their travel list, specify the quantity, and sort the list by description or packed status. The app leverages modern JavaScript features and is built using Vite, ensuring a fast development experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Prerequisites
+Ensure you have Node.js installed on your machine. This project requires Node.js and npm (Node Package Manager).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation
+1. Clone the repository
+2. Install dependencies:  npm install
+3. To start the development server, run: npm run dev
